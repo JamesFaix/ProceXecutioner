@@ -1,1 +1,13 @@
 C:\Users\James\Documents\GitHub\ProceXecutioner\ProceXecutioner\bin\Debug\ProceXecutioner.exe.config
+C:\Users\James\Documents\GitHub\ProceXecutioner\ProceXecutioner\bin\Debug\ProceXecutioner.exe
+C:\Users\James\Documents\GitHub\ProceXecutioner\ProceXecutioner\bin\Debug\ProceXecutioner.pdb
+C:\Users\James\Documents\GitHub\ProceXecutioner\ProceXecutioner\obj\Debug\ProceXecutioner.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\GitHub\ProceXecutioner\ProceXecutioner\obj\Debug\UI\MainWindow.baml
+C:\Users\James\Documents\GitHub\ProceXecutioner\ProceXecutioner\obj\Debug\UI\MainWindow.g.cs
+C:\Users\James\Documents\GitHub\ProceXecutioner\ProceXecutioner\obj\Debug\App.g.cs
+C:\Users\James\Documents\GitHub\ProceXecutioner\ProceXecutioner\obj\Debug\ProceXecutioner_MarkupCompile.cache
+C:\Users\James\Documents\GitHub\ProceXecutioner\ProceXecutioner\obj\Debug\ProceXecutioner.g.resources
+C:\Users\James\Documents\GitHub\ProceXecutioner\ProceXecutioner\obj\Debug\ProceXecutioner.Properties.Resources.resources
+C:\Users\James\Documents\GitHub\ProceXecutioner\ProceXecutioner\obj\Debug\ProceXecutioner.csproj.GenerateResource.Cache
+C:\Users\James\Documents\GitHub\ProceXecutioner\ProceXecutioner\obj\Debug\ProceXecutioner.exe
+C:\Users\James\Documents\GitHub\ProceXecutioner\ProceXecutioner\obj\Debug\ProceXecutioner.pdb

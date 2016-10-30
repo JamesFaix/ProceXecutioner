@@ -117,7 +117,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
-    <None Include="ClassDiagram1.cd" />
+    <None Include="Application.cd" />
     <None Include="Configuration\Configuration.cd" />
     <None Include="Configuration\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
