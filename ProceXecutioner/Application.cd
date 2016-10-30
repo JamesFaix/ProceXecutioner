@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProceXecutioner.UI.MainWindow">
+    <Position X="7.5" Y="6.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>RBAAAAAhQAAAAAEAAIAAAAAAAAAAAAEAMAAAEEAAAAA=</HashCode>
+      <FileName>UI\MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="controller" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProceXecutioner.App">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProceXecutioner.Controller">
+    <Position X="4.5" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAIAAAAAiAgACAQIAAAAggAAABIgA=</HashCode>
+      <FileName>Controller.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="settings" />
+      <Field Name="monitor" />
+      <Field Name="killer" />
+      <Property Name="TargetProcesses" />
+      <Property Name="RunningProcesses" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProceXecutioner.Processes.TargetProcessKiller" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Processes\TargetProcessKiller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProceXecutioner.Processes.RunningProcessMonitor" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAgAAAAAABAAAAAkAAAAI=</HashCode>
+      <FileName>Processes\RunningProcessMonitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProceXecutioner.Processes.RunningProcessCollection" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAEAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Processes\RunningProcessCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProceXecutioner.Processes.TargetProcessGroupCollection" Collapsed="true">
+    <Position X="0.5" Y="7.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAACAEAEAABAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Processes\TargetProcessGroupCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ProceXecutioner.Configuration.ISettings">
+    <Position X="2" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configuration\ISettings.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ProceXecutioner.IController">
+    <Position X="7.5" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAQIAAAAggAAAAIAA=</HashCode>
+      <FileName>IController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

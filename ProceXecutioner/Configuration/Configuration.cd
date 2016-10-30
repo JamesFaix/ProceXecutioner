@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProceXecutioner.Configuration.MockSettings" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAIAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAA=</HashCode>
+      <FileName>Configuration\MockSettings.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProceXecutioner.Configuration.Settings">
+    <Position X="1" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProceXecutioner.Configuration.SystemSettings" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAIAAIABAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Configuration\SystemSettings.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="inner" />
+      <Field Name="serializer" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProceXecutioner.Configuration.TargetSerializer">
+    <Position X="3.25" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAACAiAAgAAIAAAAAAAAAAIAAAAAAABAAAAAEAA=</HashCode>
+      <FileName>Configuration\TargetSerizalier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ProceXecutioner.Configuration.ISettings">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configuration\ISettings.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProceXecutioner.Processes.ProcessUtilityBase">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Processes\ProcessUtilityBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProceXecutioner.Processes.RunningProcess" BaseTypeListCollapsed="true">
+    <Position X="1" Y="7" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAABEoQAAAAQAgAAAAIAAAAAAAAAAAiA=</HashCode>
+      <FileName>Processes\RunningProcess.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProceXecutioner.Processes.RunningProcessCollection">
+    <Position X="3.25" Y="7" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAEAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Processes\RunningProcessCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProceXecutioner.Processes.RunningProcessMonitor">
+    <Position X="3" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAgAAAAAABAAAAAkAAAAI=</HashCode>
+      <FileName>Processes\RunningProcessMonitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProceXecutioner.Processes.TargetProcess">
+    <Position X="8.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Processes\TargetProcess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProceXecutioner.Processes.TargetProcessGroup" BaseTypeListCollapsed="true">
+    <Position X="10" Y="7" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAABAAQEAQAAAAQggAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Processes\TargetProcessGroup.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProceXecutioner.Processes.TargetProcessGroupCollection">
+    <Position X="12" Y="7" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAACAEAEAABAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Processes\TargetProcessGroupCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProceXecutioner.Processes.TargetProcessKiller">
+    <Position X="9" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Processes\TargetProcessKiller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
